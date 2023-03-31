@@ -23,7 +23,7 @@ http://127.0.0.1:8000/redoc/ Документация для YaMDb
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/Ekaterishe4ka/api_yamdb
+https://github.com/Ekaterishe4ka/api_yamdb.git
 ```
 
 Cоздать и активировать виртуальное окружение:
